@@ -15,3 +15,5 @@ Replace `run_Cor` in the example with the desired script name.
 ## Data and Results
 
 The scripts use **MSRCv1** by default. Dataset files contain `data` (a cell array of view matrices, with samples in columns) and `truelabel` (labels accessed as `truelabel{1}`).
+
+You can download more datasets [here](https://github.com/wangsiwei2010/large_scale_multi-view_clustering_datasets).
