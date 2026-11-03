@@ -1,5 +1,13 @@
-# NeurIPS2026: K-OR and Cor-SVD
-The code for the NeurIPS 2026 work: Permutation Sensitivity in t-SVD-based Multi-view Clustering. 
+
+# NeurIPS 2026: K-OR and Cor-SVD
+
+**Permutation Sensitivity in t-SVD-based Multi-view Clustering**
+
+![NeurIPS 2026 Poster](./Poster_NeurIPS_5120x2880.png)
+
+The code for the NeurIPS 2026 work: *Permutation Sensitivity in t-SVD-based Multi-view Clustering*.
+
+## Usage
 
 Both method folders provide these entry scripts:
 
