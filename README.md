@@ -3,6 +3,9 @@
 
 **Permutation Sensitivity in t-SVD-based Multi-view Clustering**
 
+![NeurIPS 2026 Paper](./Permutation_Sensitivity_i.pdf)
+
+
 ![NeurIPS 2026 Poster](./Poster_NeurIPS_5120x2880.png)
 
 The code for the NeurIPS 2026 work: *Permutation Sensitivity in t-SVD-based Multi-view Clustering*.
